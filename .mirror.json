@@ -1,0 +1,17 @@
+{
+ "assets": {
+  "binder_notebook": "19b74a17100b8c852b8ce520b3029609fc601fbb",
+  "book_encyclopedia_set_01": "e9912207a0e5af455662c910d23d34ccbabb26ac",
+  "clipboard": "d67455f77731d7d7927333d699907dd6451e581c",
+  "decorative_book_set_01": "17b60199f281591c470612a06a05afa38780b4eb",
+  "office_notepads": "41a4f25b547807cd4c1dea9ec782319f8c996a8a",
+  "postcard_set_01": "fe10db91a4160ae11259ba78041a5520ab63e3f8",
+  "standing_chalkboard_01": "a28256e934770192e1892051638032435cc27a0b",
+  "stationery_supplies": "4dbacd04f75f1ccd853db5f56a6a891359c5fa31",
+  "vintage_stapler": "4702671d2522027c1c1c098099d04dbae6a68774"
+ },
+ "license": "https://polyhaven.com/license",
+ "site": "https://polyhaven.com",
+ "source": "polyhaven",
+ "template": 1
+}
